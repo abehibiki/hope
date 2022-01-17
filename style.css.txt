@@ -1,0 +1,4 @@
+<link rel="file:///Users/hope/Documents/index.html" href="style.css.txt">
+h1{
+	color:red;		
+}
